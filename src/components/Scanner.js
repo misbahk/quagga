@@ -16,7 +16,7 @@ imagearea:false
 
 
 componentDidMount(){
-localStorage. clear();
+localStorage.clear();
 }
 
 onSelectFile = e => {
